@@ -1,1 +1,5 @@
-//
+In this repository implement different kinds of sample and hold architectures and analyse their performance metrics to understand their applications.
+A Sample and Hold Circuit, sometimes represented as S/H Circuit or S&H Circuit, is usually used with an Analog to Digital Converter to sample the input analog signal and hold the sampled signal.
+Sampling circuits are used at the front-end of the Analog to Digital Converter to relax their sampling time requirements.
+At the back end of D/A converter to remove or suppress the gliches.
+Depending on the applications, analog signal can be sampled in different manners resulting in different frequency spectra.

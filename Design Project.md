@@ -79,29 +79,7 @@ The capacitor voltage during the hold mode can be affected by the current drawn 
 Buffer circuit at the input as well as at the output reduces the loading effect.
 It will increases the complexity as well as non-idealities in the S/H circuit.
 
-CMOS Buffer Design:
 
-Schematic:
-
-<img width="780" height="501" alt="image" src="https://github.com/user-attachments/assets/29f89b91-8ad7-45b2-bfa8-79a12796f1ed" />
-
-Test circuit :
-
-<img width="786" height="464" alt="image" src="https://github.com/user-attachments/assets/0df83a1e-746e-4d2a-9c2a-3fa2a0c223c7" />
-
-Vdd=1.8 V,
-Vpulse= 0 to 1.8 V,
-Wn1=Wn2=40u M,
-Wp1=Wp2=20u M,
-L=500n M.
-
-Output Waveform:
-<img width="995" height="564" alt="image" src="https://github.com/user-attachments/assets/e82448c1-80c5-4a24-a7b8-0c0da9f26de4" />
-
-Observations:
-
-Rise time=89.51E-9 s
-Fall time=89.51E-9 s
 
 
 

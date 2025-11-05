@@ -98,6 +98,11 @@ L=500n M.
 Output Waveform:
 <img width="995" height="564" alt="image" src="https://github.com/user-attachments/assets/e82448c1-80c5-4a24-a7b8-0c0da9f26de4" />
 
+Observations:
+
+Rise time=89.51E-9 s
+Fall time=89.51E-9 s
+
 
 
 

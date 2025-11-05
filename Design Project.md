@@ -69,6 +69,16 @@ Output Waveform:
 
 Types of Sample and Hold architectures:
 
+1) Open loop architecture:
+
+<img width="821" height="315" alt="image" src="https://github.com/user-attachments/assets/67c59bfc-5579-480d-86fc-2b5567d21664" />
+
+
+During tracking phase/ Acquisition mode, the transient current drawn from the input by CH can introduce noise at the input.So that input buffer is required to reduce this noise
+The capacitor voltage during the hold mode can be affected by the current drawn by the following circuit. Therefore, the output voltage is buffered.
+Buffer circuit at the input as well as at the output reduces the loading effect.
+It will increases the complexity as well as non-idealities in the S/H circuit.
+
 
 
 

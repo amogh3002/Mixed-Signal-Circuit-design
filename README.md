@@ -57,7 +57,9 @@ Consists of transconductance amplifier, sampling capacitor CH, s1-s3 switches. W
 
 Current Mode Architecture refers to a system design where current, rather than voltage, is used as the primary signal parameter. This approach is commonly used in high-speed analog circuits and communication systems.
 
-Performance metrics 
+
+
+Performance metrics :
 
 • Acquisition time, tacq – time taken to stabilize the output.
 
@@ -78,6 +80,22 @@ Performance metrics
 • Signal to noise ratio (SNR) – signal power/rms of noise 
 
 • Signal to (noise+distortion) ratio (SNDR) – signal power / signalpower – 1st harmonic amplitude
+
+
+
+Applications of Sample and Hold Circuit :
+
+ADCs (Analog-to-Digital Conversion)
+
+DACs (Digital-to-Analog Conversion)
+
+In Analog Demultiplexing
+
+In Linear Systems
+
+In Digital Voltmeters
+
+In Signal Constructional Filters
 
 
 

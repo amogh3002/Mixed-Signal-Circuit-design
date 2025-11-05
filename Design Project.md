@@ -1,0 +1,78 @@
+Implementation of S&H circuits
+
+nmos S&H circuit
+
+<img width="760" height="467" alt="Screenshot 2025-11-04 222215" src="https://github.com/user-attachments/assets/e9755893-ea34-4b69-8289-f5eb8a540107" />
+
+L1=500n M to avoid Channel length modulation
+
+W1=50u M
+
+fin=10k Hz  , vdd=1.8 V
+
+vin= 0.6 + 500 sin m V
+
+vpulse= 0 to 1.8 V    Pulse width = 5u
+
+CH(Hold capacitor) = 100p F
+
+
+
+Output Waveform:
+
+
+<img width="1268" height="562" alt="image" src="https://github.com/user-attachments/assets/7285921a-5186-4dff-a6bf-8564a53e1330" />
+
+pmos S&H circuit
+
+
+<img width="668" height="492" alt="image" src="https://github.com/user-attachments/assets/ae56eda1-7316-4b05-be78-876561454895" />
+
+
+L1=500n M to avoid Channel length modulation
+
+W1=50u M
+
+fin=10k Hz        ,Vdd=1.8 V
+
+vin= 1.25 + 500 sin m V
+
+vpulse= 0 to 1.8 V     Pulse width = 5u
+
+CH(Hold capacitor) = 100p F
+
+Output Waveform :
+
+<img width="1269" height="564" alt="image" src="https://github.com/user-attachments/assets/95127add-65fd-49f8-b6fc-4fc76072234c" />
+
+cmos S&H circuit
+
+<img width="675" height="474" alt="image" src="https://github.com/user-attachments/assets/8106b40a-bcad-4062-884e-080f46091b55" />
+
+L1=500n M to avoid Channel length modulation
+
+Wn=wp=50u M
+
+fin=10k Hz    ,Vdd=1.8 V
+
+vin= 1 + 500 sin m V
+
+vpulse= 0 to 1.8 V     Pulse width = 5u
+
+CH(Hold capacitor) = 100p F
+
+Output Waveform:
+
+<img width="1265" height="569" alt="image" src="https://github.com/user-attachments/assets/082d9b0f-6465-4736-a469-60e4afcf4ab2" />
+
+
+
+Types of Sample and Hold architectures:
+
+
+
+
+
+
+
+

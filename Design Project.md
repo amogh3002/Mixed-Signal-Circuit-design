@@ -68,7 +68,7 @@ Output Waveform:
 
 Frequency Domain Analysis of CMOS S&H Circuit:
 
-file:///home/nieece/Desktop/DesignProject0787/SHA/snaps/cmos_sha_fft.bmp<img width="1590" height="670" alt="image" src="https://github.com/user-attachments/assets/7094720d-3f30-4de2-8c9f-8bae838b414d" />
+<img width="1590" height="670" alt="image" src="https://github.com/user-attachments/assets/7094720d-3f30-4de2-8c9f-8bae838b414d" />
 
 
 Types of Sample and Hold architectures:

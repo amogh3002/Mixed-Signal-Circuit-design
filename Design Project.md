@@ -111,7 +111,7 @@ Test circuit--opamp as buffer
 
 <img width="1178" height="778" alt="image" src="https://github.com/user-attachments/assets/d6060fb2-3407-4d11-81a0-2c89982dd5ac" />
 
-Transient analysis of iopamp as buffer
+Transient analysis of opamp as buffer
 
 <img width="1436" height="623" alt="image" src="https://github.com/user-attachments/assets/6b4ce853-87a3-4023-826e-deeedfc6d0f4" />
 

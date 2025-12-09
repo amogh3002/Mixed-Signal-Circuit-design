@@ -161,6 +161,21 @@ No amplifier complexity
 High speed (limited only by RC time constant
 
 
+Design Outcome:
+
+Opamp with gain of 62 dB and Phase margin of 80 degrees
+Open loop architecture with less distortions in the ouput side.
+Designed the circuit for all three switches -  NMOS , PMOS and CMOS.
+
+Summary/Novelty:
+Open loop S/H provides:
+Very High Speed,
+Lower Power Consumption,
+Compact Area,
+Less Sensitive to Op-Amp Stability Issues.
+
+
+
 
 
 

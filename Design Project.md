@@ -107,13 +107,37 @@ AC analysis of opamp
 
 <img width="3039" height="1370" alt="image" src="https://github.com/user-attachments/assets/5ab7b9e4-0bee-466d-88cc-0a756b219d69" />
 
+Test circuit--opamp as buffer
+
+<img width="1178" height="778" alt="image" src="https://github.com/user-attachments/assets/d6060fb2-3407-4d11-81a0-2c89982dd5ac" />
+
+Transient analysis of iopamp as buffer
+
+<img width="1436" height="623" alt="image" src="https://github.com/user-attachments/assets/6b4ce853-87a3-4023-826e-deeedfc6d0f4" />
+
+
 Transient analysis of openloop S&H:
 
-<img width="504" height="202" alt="image" src="https://github.com/user-attachments/assets/9ad9bb7a-7e19-4272-b398-0c24fefffe6d" />
+<img width="1324" height="532" alt="image" src="https://github.com/user-attachments/assets/b3b13a20-5dfb-40ff-9918-d466ab3fd77a" />
+
 
 Open loop S/H ckt  spectrum analysis
 
-<img width="503" height="280" alt="image" src="https://github.com/user-attachments/assets/2343eefc-a6c6-4f03-bd9c-ead9e0025f68" />
+<img width="933" height="518" alt="image" src="https://github.com/user-attachments/assets/779ee40e-acab-4c34-90a0-d8dbc107c953" />
+
+
+Design Outcome:
+
+Opamp with gain of 62 dB and Phase margin of 80 degrees
+Open loop architecture with less distortions in the ouput side.
+Designed the circuit for all three switches -  NMOS , PMOS and CMOS.
+
+Summary/Novelty:
+Open loop S/H provides:
+Very High Speed
+Lower Power Consumption
+Compact Area
+Less Sensitive to Op-Amp Stability Issues
 
 
 

@@ -91,6 +91,14 @@ Design of Opamp(for Buffer)
 
 <img width="504" height="279" alt="image" src="https://github.com/user-attachments/assets/9cea18b9-c10c-4258-961d-b2dcc53ce860" />
 
+Design procedure
+
+<img width="756" height="1045" alt="image" src="https://github.com/user-attachments/assets/11ec781a-dafa-4f3f-9679-6c698e617ada" />
+
+
+<img width="581" height="613" alt="image" src="https://github.com/user-attachments/assets/b3194ce1-d56f-4afa-bda9-fd463f0e6c41" />
+
+
 Test circuit
 
 <img width="1889" height="1482" alt="image" src="https://github.com/user-attachments/assets/1a7aacbe-9bf0-4e05-886e-167cd4156f6f" />

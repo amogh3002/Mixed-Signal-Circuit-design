@@ -84,6 +84,10 @@ Buffer circuit at the input as well as at the output reduces the loading effect.
 It will increases the complexity as well as non-idealities in the S/H circuit.
 
 
+<img width="2431" height="1135" alt="image" src="https://github.com/user-attachments/assets/512845bd-6836-46c0-9a0c-d0b6b7dc7305" />
+
+
+
 
 
 

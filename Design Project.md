@@ -87,6 +87,27 @@ It will increases the complexity as well as non-idealities in the S/H circuit.
 <img width="2431" height="1135" alt="image" src="https://github.com/user-attachments/assets/512845bd-6836-46c0-9a0c-d0b6b7dc7305" />
 
 
+Design of Opamp(for Buffer)
+
+<img width="504" height="279" alt="image" src="https://github.com/user-attachments/assets/9cea18b9-c10c-4258-961d-b2dcc53ce860" />
+
+Test circuit
+
+<img width="1889" height="1482" alt="image" src="https://github.com/user-attachments/assets/1a7aacbe-9bf0-4e05-886e-167cd4156f6f" />
+
+AC analysis of opamp
+
+<img width="3039" height="1370" alt="image" src="https://github.com/user-attachments/assets/5ab7b9e4-0bee-466d-88cc-0a756b219d69" />
+
+Transient analysis of openloop S&H:
+
+<img width="504" height="202" alt="image" src="https://github.com/user-attachments/assets/9ad9bb7a-7e19-4272-b398-0c24fefffe6d" />
+
+Open loop S/H ckt  spectrum analysis
+
+<img width="503" height="280" alt="image" src="https://github.com/user-attachments/assets/2343eefc-a6c6-4f03-bd9c-ead9e0025f68" />
+
+
 
 
 

@@ -126,24 +126,39 @@ Open loop S/H ckt  spectrum analysis
 <img width="933" height="518" alt="image" src="https://github.com/user-attachments/assets/779ee40e-acab-4c34-90a0-d8dbc107c953" />
 
 
-Design Outcome:
+Working :
+Sampling Phase (φ = ON)
+The MOS switch conducts. The input voltage charges the hold capacitor and CH tracks Vin.
 
-Opamp with gain of 62 dB and Phase margin of 80 degrees.
+Hold Phase (φ = OFF)
 
-Open loop architecture with less distortions in the ouput side.
+The switch opens. The capacitor retains the sampled voltage , output remains constant.
 
-Designed the circuit for all three switches -  NMOS , PMOS and CMOS.
+Limitations of Open loop architecture
 
-Summary/Novelty:
-Open loop S/H provides:
-Very High Speed,
-Lower Power Consumption,
-Compact Area,
-Less Sensitive to Op-Amp Stability Issues.
+Gain error
+Voltage on CH depends on switch resistance and input source impedance.
 
+Droop (voltage decay)
+Leakage of switch + capacitor ESR causes voltage change during hold.
 
+Charge injection & clock feedthrough
+When the MOS switch turns OFF, channel charge is dumped into C_H.
 
+Nonlinearity
+Switch resistance varies with Vin → distortion.
 
+Not suitable for high-resolution ADCs
+Typically limited to ~6–8 bits accuracy.
+
+Advantages:
+Very simple architecture
+
+Low power
+
+No amplifier complexity
+
+High speed (limited only by RC time constant
 
 
 
